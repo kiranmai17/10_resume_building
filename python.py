@@ -4,22 +4,27 @@ DAY= saturday
 TOPIC=new things 
 AUTHOR= kiranmai
 '''
+''' 
+Resume builder mod apk from google
+will get the templates 
+select anyone which u like 
+and fill the details  
+'''
+"""MAIN THINS MUST INCLUDE IN RESUME
+1.mail
+2.location
+3.github account
+4.linkedIn account
+5.phone number
+6.carrier objectives
+7.education
+8.skill(python,postgresql,msoffice(vlookup),communication skills etc) 
+9.language
+10.interests
+11.achievements"""
+
+"""TO KEEP CARRIER OBJECTIVES
+donot copy from others ,if u want the same thing in different formate
+QUILLBOT helps you"""
 
 
-"""ACHIVEMENTS IN RESUME
-1.w3 schools-python exercises,quiz
-2.typing-35wpm atleast
-3.edube.org-solve python questions
-4.sololearn python for biginners
-5.hacker rank-python atleast 3 rating
-6.pcep certificate(after exam result-atleast 70%)
-pcep=certified entry python programmer
-
-"""
-"""MAIN THINGS IN CSS
-1.flexbox
-2.grid layout
-3.cell pading"""
- 
-
- '''TABLECONVERT= CONVERTS IN MANY LANGUAGES'''
